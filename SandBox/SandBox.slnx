@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="SandBox/SandBox.csproj" />
+  <Project Path="SandBox/RukhlyadaApp.csproj" />
   <Project Path="StepanovaApp1/StepanovaApp1.csproj" Id="36b9cbca-e646-4b69-93a3-9148009dcb33" />
 </Solution>
